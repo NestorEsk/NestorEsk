@@ -2,8 +2,6 @@
 
 Soy un desarrollador apasionado por el frontend, el fútbol y las carreras. Me dedico a trabajar en el diseño de aplicaciones web y en el diseño de aplicaciones de escritorio y móvil. Estoy abierto a expandir mis conocimientos hacia otras áreas.
 
-![Banner animado](https://media.giphy.com/media/3oEjI6SIIHBdRxZ5sI/giphy.gif) <!-- Ejemplo de GIF animado -->
-
 ## 🌐 Lenguajes con los que sé trabajar
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)
@@ -21,5 +19,5 @@ Si deseas contactarme o conocer más sobre mi trabajo, no dudes en seguirme en m
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://x.com/NestorEsk)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)]()
 
-![Gracias por visitar mi perfil](https://media.giphy.com/media/l1J3w9z7PlZ6dQ4q0/giphy.gif) <!-- Otro GIF animado -->
+![Gracias por visitar mi perfil](https://media.giphy.com/media/l1J3w9z7PlZ6dQ4q0/giphy.gif)
 
