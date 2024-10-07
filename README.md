@@ -19,5 +19,5 @@ Si deseas contactarme o conocer más sobre mi trabajo, no dudes en seguirme en m
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://x.com/NestorEsk)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)]()
 
-![Gracias por visitar mi perfil](https://media.giphy.com/media/l1J3w9z7PlZ6dQ4q0/giphy.gif)
+![Gracias por visitar mi perfil]
 
