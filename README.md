@@ -1,6 +1,6 @@
 # Hola, soy NestorEsk 👋
 
-Soy un desarrollador apasionado por el frontend, el fútbol y las carreras. Me dedico a trabajar en el diseño de aplicaciones web y en el diseño de aplicaciones de escritorio y móvil. Estoy abierto a expandir mis cono![Tailwind CSS](https://tailwindcss.com/_next/static/media/tailwindcss-mark.4e2a034c.svg)cimientos hacia otras áreas.
+Soy un desarrollador apasionado por el frontend, el fútbol y las carreras. Me dedico a trabajar en el diseño de aplicaciones web y en el diseño de aplicaciones de escritorio y móvil. Estoy abierto a expandir mis conocimientos hacia otras áreas.
 
 ## 🌐 Lenguajes con los que sé trabajar
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
