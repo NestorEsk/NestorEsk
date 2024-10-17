@@ -6,7 +6,7 @@ Soy un desarrollador apasionado por el frontend, el fútbol y las carreras. Me d
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Tailwind CSS](https://raw.githubusercontent.com/tailwindlabs/tailwindcss/master/packages/tailwindcss/logo.svg)
+![Tailwind CSS](https://tailwindcss.com/_next/static/media/tailwindcss-mark.4e2a034c.svg)
 
 
 ## 💼 Mis Soft Skills
