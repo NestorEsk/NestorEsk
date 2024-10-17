@@ -6,6 +6,8 @@ Soy un desarrollador apasionado por el frontend, el fútbol y las carreras. Me d
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Tailwind CSS](https://raw.githubusercontent.com/tailwindlabs/tailwindcss/master/packages/tailwindcss/logo.svg)
+
 
 ## 💼 Mis Soft Skills
 - **Aprendizaje rápido**: Tengo la capacidad de adquirir nuevos conocimientos y habilidades de manera eficaz, lo que me permite adaptarme rápidamente a nuevas tecnologías y desafíos.
