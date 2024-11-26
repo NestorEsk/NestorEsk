@@ -11,7 +11,7 @@ Soy un desarrollador apasionado por el frontend, el fútbol y las carreras. Me d
 
 ## 💼 Mis Soft Skills
 - **Aprendizaje rápido**: Tengo la capacidad de adquirir nuevos conocimientos y habilidades de manera eficaz, lo que me permite adaptarme rápidamente a nuevas tecnologías y desafíos.
-- **Competitividad**: Creo firmemente que la competitividad fomenta la mejora continua. Disfruto participar en hackatones y desafíos de codificación, donde puedo poner a prueba mis habilidades y aprender de mis compañeros.
+- **Competitividad**: Creo firmemente que la competitividad fomenta la mejora continua. Me gusta aprender de mis compañeros.
 - **Diseño y creatividad**: Mis habilidades en diseño me permiten crear interfaces atractivas y funcionales. Me apasiona seguir aprendiendo sobre diseño UX/UI para mejorar la experiencia del usuario en mis proyectos.
 - **Trabajo en equipo**: Valoro la colaboración y el intercambio de ideas con mis colegas. Estoy siempre dispuesto a escuchar y aprender de las perspectivas de otros, lo que enriquece mi trabajo y el del equipo.
 
